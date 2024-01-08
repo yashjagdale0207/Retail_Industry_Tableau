@@ -3,6 +3,8 @@
 Executive Summary:
 
 Project: Retail Insights Dashboard for AmazingMart-EU(https://yashjagdale0207.github.io/Tableau_Project1/)
+![Retail Industry](https://github.com/yashjagdale0207/Tableau_Project1/assets/145290827/f2ae647e-baad-4f1b-9268-c27540b9338d)
+
 
 Objective:
 The primary objective of this Tableau project is to create interactive dashboards that provide comprehensive insights into the profits of a retail store specializing in Furniture, Office Supplies, and Technology products across Europe. The analysis covers the years 2013 to 2016.

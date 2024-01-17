@@ -3,7 +3,7 @@
 Executive Summary:
 
 Project: Retail Insights Dashboard for AmazingMart-EU
-Story-(https://yashjagdale0207.github.io/Tableau_Project1/)
+Story-( https://yashjagdale0207.github.io/Retail_Industry_Tableau/)
 ![Retail Industry](https://github.com/yashjagdale0207/Tableau_Project1/assets/145290827/f2ae647e-baad-4f1b-9268-c27540b9338d)
 
 
